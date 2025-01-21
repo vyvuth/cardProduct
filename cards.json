@@ -2,43 +2,73 @@
   "cards": [
     {
       "id": 1,
-      "image": "https://i.ebayimg.com/00/s/ODU1WDEzODU=/z/wO4AAOSwaJ1kgN2S/$_57.JPG?set_id=880000500F"
+      "image": "https://i.ebayimg.com/00/s/ODU1WDEzODU=/z/wO4AAOSwaJ1kgN2S/$_57.JPG?set_id=880000500F",
+      "title": "Monitor&Desktops",
+      "price": "1250",
+      "description": "A high-quality, luxurious monitor with a sleek design and a premium glass panel."
     },
     {
       "id": 2,
-      "image": "https://www.pcrichard.com/on/demandware.static/-/Sites-pcrichard-master-articles-catalog/default/dwa2a34dfc/images/content/gaming-computer-buying-guide-rgb.jpg"
+      "image": "https://www.pcrichard.com/on/demandware.static/-/Sites-pcrichard-master-articles-catalog/default/dwa2a34dfc/images/content/gaming-computer-buying-guide-rgb.jpg",
+      "title": "Modern laptop",
+      "price": "850",
+      "description": " Modern laptop with optional hardware and software"
     },
     {
       "id": 3,
-      "image": "https://hips.hearstapps.com/hmg-prod/images/designer-winter-coats-1464184925-657768d7e3d70.jpg?crop=1.00xw:1.00xh;0,0&resize=640:*"
+      "image": "https://hips.hearstapps.com/hmg-prod/images/designer-winter-coats-1464184925-657768d7e3d70.jpg?crop=1.00xw:1.00xh;0,0&resize=640:*",
+      "title": "Jacket women",
+      "price": "250",
+      "description": " it is good for us"
     },
     {
       "id": 4,
-      "image": "https://d1fufvy4xao6k9.cloudfront.net/images/blog/posts/2023/09/hockerty_chesterfield_coat_vs_overcoat_a7523e38_82dc_4d9c_9a22_df45cbd40d38.jpg"
+      "image": "https://d1fufvy4xao6k9.cloudfront.net/images/blog/posts/2023/09/hockerty_chesterfield_coat_vs_overcoat_a7523e38_82dc_4d9c_9a22_df45cbd40d38.jpg",
+      "title": "Jacket men",
+      "price": "350",
+      "description": " Good condition and prices"
     },
     {
       "id": 5,
-      "image": "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/99486859-0ff3-46b4-949b-2d16af2ad421/custom-nike-dunk-high-by-you-shoes.png"
+      "image": "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/99486859-0ff3-46b4-949b-2d16af2ad421/custom-nike-dunk-high-by-you-shoes.png",
+      "title": "Jorden",
+      "price": "150",
+      "description": " suitable for you"
     },
     {
       "id": 6,
-      "image": "https://img.ltwebstatic.com/images3_spmp/2024/06/25/bc/1719306558f42c96f848ad46804bf3366769f961b7_thumbnail_720x.jpg"
+      "image": "https://img.ltwebstatic.com/images3_spmp/2024/06/25/bc/1719306558f42c96f848ad46804bf3366769f961b7_thumbnail_720x.jpg",
+      "title": "Goden Shoes",
+      "price": "400",
+      "description": " highly beautiful for us"
     },
     {
       "id": 7,
-      "image": "https://topgold.com.sg/cdn/shop/articles/DALL_E_2024-10-11_14.04.32_-_An_elegant_and_luxurious_display_of_gold_jewellery_including_a_beautiful_gold_ring_and_gold_earrings_arranged_on_a_soft_velvet_display._The_backgroun.webp?v=1728630308&width=1100"
+      "image": "https://topgold.com.sg/cdn/shop/articles/DALL_E_2024-10-11_14.04.32_-_An_elegant_and_luxurious_display_of_gold_jewellery_including_a_beautiful_gold_ring_and_gold_earrings_arranged_on_a_soft_velvet_display._The_backgroun.webp?v=1728630308&width=1100",
+      "title": "Gold Jewellery",
+      "price": "8000",
+      "description": " beautiful gold jewellery"
     },
     {
       "id": 8,
-      "image": "https://gatsbyjewellery.co.uk/cdn/shop/articles/gatsby-jewellery-the-history-of-gold-jewellery_1254x.jpg?v=1719926510"
+      "image": "https://gatsbyjewellery.co.uk/cdn/shop/articles/gatsby-jewellery-the-history-of-gold-jewellery_1254x.jpg?v=1719926510",
+      "title": "Jewellery ",
+      "price": "2500",
+      "description": " jewellery with great prices"
     },
     {
       "id": 9,
-      "image": "https://cdn.mos.cms.futurecdn.net/xzkhQVxGwR4MP8B6ZXM6A7-1200-80.jpg"
+      "image": "https://cdn.mos.cms.futurecdn.net/xzkhQVxGwR4MP8B6ZXM6A7-1200-80.jpg",
+      "title": "Iphone 16",
+      "price": "900",
+      "description": " Good condition and prices"
     },
     {
       "id": 10,
-      "image": "https://i0.wp.com/supercells.co.za/wp-content/uploads/2024/03/iphone-15-6c.jpg?fit=1360%2C821&ssl=1"
+      "image": "https://i0.wp.com/supercells.co.za/wp-content/uploads/2024/03/iphone-15-6c.jpg?fit=1360%2C821&ssl=1",
+      "title": "Iphone 15",
+      "price": "870",
+      "description": " suitable for you"
     }
   ]
 }
