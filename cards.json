@@ -1,0 +1,16 @@
+{
+  "cards": [
+    {
+      "name": "Card 1",
+      "description": "This is card 1",
+      "image": "card1.jpg",
+      "price": 19.99
+    },
+    {
+      "name": "Card 2",
+      "description": "This is card 2",
+      "image": "card2.jpg",
+      "price": 29.99
+    }
+  ]
+}
