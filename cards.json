@@ -89,6 +89,24 @@
       "description": " suitable for you",
       "rate": "4 rating ",
       "category": "Electronic"
+    },
+    {
+      "id": 11,
+      "image": "https://jyadadekho.com/wp-content/uploads/2024/12/1000290719.jpg",
+      "title": "s25 Ultra",
+      "price": "1070",
+      "description": " Professional of zoom taking star",
+      "rate": "5 rating ",
+      "category": "Electronic"
+    },
+    {
+      "id": 12,
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjqY5FPGMXo7nAl9zQQD4loU9s9b0vsClxzfGokh9xbPA6uE263f76Jb5CGllur12cZ32_qCB5vN4Jdkb9rfTOdgEt72fZHZnoM4jNJPG00vbNS6rIMRbJcDQ42q_PnSNZgVoBmhmwgZ3awsWYt0eJiAIk3lWVYKvlUEH-TH39T-eaLF-URTijRWQaA9Nrk/s1196/as6yquMv7Ed3H6pXaJ4FDaBX5jXkARGkUBHusm.jpg",
+      "title": "ROG 9",
+      "price": "1410",
+      "description": " suitable for you",
+      "rate": "5 rating ",
+      "category": "Electronic"
     }
   ]
 }
